@@ -2,7 +2,7 @@
 
 ### Overview:
 
-This is a simple project that utilizes Azure Web PubSub Service to provide real-time chat functionality for colleagues who drive electric vehicles. It is a web application that allows users to communicate and coordinate regarding EV charging at the workplace.
+This project utilizes Azure Web PubSub Service to provide real-time chat functionality for colleagues who drive electric vehicles. It is a web application that allows users to communicate and coordinate regarding EV charging at the workplace.
 
 ### How Azure Web PubSub Service is Utilized:
 
